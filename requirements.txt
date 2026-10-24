@@ -1,0 +1,4 @@
+uagents>=0.22.0
+uagents-core>=0.5.0
+openai>=1.40.0
+pydantic>=2.7.0
